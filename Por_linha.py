@@ -3,7 +3,7 @@ from openpyxl import Workbook
 import re # importar a biblioteca re
 
 # Abra o arquivo PDF e crie um objeto de leitura
-pdf_file = open('PDF\BM.pdf', 'rb')
+pdf_file = open('PDF\SEU_ARQUIVO.pdf', 'rb')
 pdf_reader = PyPDF2.PdfFileReader(pdf_file)
 
 # Crie um novo arquivo XLSX e uma planilha
