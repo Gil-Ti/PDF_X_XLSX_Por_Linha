@@ -16,11 +16,11 @@
 
 # Descrição do Projeto
 
-Sistema em Python com o objetivo de extrair dados de relatórios financeiros em PDF, utilizando como referência uma palavra antes da informação que deverá ser extraída. Por exemplo (Real). 
+Aplicação em Python com o objetivo de extrair dados de relatórios financeiros em PDF, utilizando como referência uma palavra antes da informação que deverá ser extraída. Por exemplo (Real). 
 
 ![Extrair_PDF_PNG](https://user-images.githubusercontent.com/111284002/226928097-4bc8a06e-ecfd-4a4a-b98f-09d44f3ca523.png)
 
-Extrair dados de um relatório financeiro em PDF nem sempre é uma tarefa fácil, pois o relatório vem com cabeçalho, rodapé, tabelas com tamanhos diferentes, entre outras situações que dificultam a extração de informações. O sistema construído em Python permite extrair todas as linhas de um arquivo PDF e salvá-las em um arquivo XLSX. Isso permite a exclusão de informações desnecessárias e preserva a linha onde está a informação necessária.
+Extrair dados de um relatório financeiro em PDF nem sempre é uma tarefa fácil, pois o relatório vem com cabeçalho, rodapé, tabelas com tamanhos diferentes, entre outras situações que dificultam a extração de informações. A aplicação construída em Python permite extrair todas as linhas de um arquivo PDF e salvá-las em um arquivo XLSX. Isso permite a exclusão de informações desnecessárias e preserva a linha onde está a informação necessária.
 
 # Tecnologias utilizadas
 * Python
